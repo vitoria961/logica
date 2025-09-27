@@ -15,4 +15,5 @@ elif n == 7:
     print("Sábado")
 else:
 
-    print("Número inválido!!! Digite um número entre 1 e 7.")
+    print("Número inválido!!! Digite um número entre 1 e 7")
+
